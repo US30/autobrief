@@ -1,0 +1,11 @@
+langgraph
+langchain-openai
+pydantic
+fastapi
+uvicorn
+httpx
+rapidfuzz
+python-dotenv
+pandas
+tabulate
+pytest
